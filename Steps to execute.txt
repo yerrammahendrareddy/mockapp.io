@@ -1,0 +1,18 @@
+#create virtual en & install requirements
+ 
+pip install -r requirements.txt
+
+#if not intialise the project already
+ python manage.py initialise 
+
+#run the app
+python manage.py runserver
+
+go to the indicated url
+
+login User password
+
+User ID: test
+password: test
+
+
